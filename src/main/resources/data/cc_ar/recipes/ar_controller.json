@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/gold"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "O": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "pattern": [
+    "III",
+    "GOG",
+    "III"
+  ],
+  "result": {
+    "item": "cc_ar:ar_controller"
+  },
+  "show_notification": true
+}
